@@ -1,2 +1,2 @@
-# hw
-Galyautdinov Almaz homework repository from the course "web start"
+#Домашние задания
+Репозиторий с домашними заданиями Галяутдинова Алмаза с курса "веб-старт"
